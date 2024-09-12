@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2024-09-12 08:05">
+    <shop>
+        <name>Эльтурион</name>
+        <company>ООО Стом-ВД</company>
+        <url>https://elturion.ru</url>
+        <email>elturion@yandex.ru</email>
+        <picture>https://elturion.ru/wp-content/uploads/2024/05/logo.svg</picture>
+        <description>Стоматологическая клиника</description>
+        <currencies>
+            <currency id="RUR" rate="1" />
+        </currencies>
+        <categories>
+            <category id="1">Врач</category>
+        </categories>
+        <sets>
+            <set id="set_1">
+                <name>Стоматолог</name>
+                <url>https://elturion.ru/doctors/</url>
+            </set>
+            <set id="set_2">
+                <name>Стоматолог-ортопед</name>
+                <url>https://elturion.ru/doctors/</url>
+            </set>
+            <set id="set_4">
+                <name>Стоматолог-хирург</name>
+                <url>https://elturion.ru/doctors/</url>
+            </set>
+            <set id="set_5">
+                <name>Стоматолог-терапевт</name>
+                <url>https://elturion.ru/doctors/</url>
+            </set>
+            <set id="set_6">
+                <name>Стоматолог-протезист</name>
+                <url>https://elturion.ru/doctors/</url>
+            </set>
+            <set id="set_7">
+                <name>Имплантолог</name>
+                <url>https://elturion.ru/doctors/</url>
+            </set>
+        </sets>
+        <offers>
+            <offer id="vrach28797" group_id="1">
+                <categoryId>1</categoryId><set-ids>set_1,set_5</set-ids><name>Зиновьева Наталья Николаевна</name>
+                                    <url>https://elturion.ru/doctors/zinoveva-natalya-nikolaevna/</url>
+                                    <price from="true">1500</price>
+                <oldprice>1650</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Специализируется на лечении кариеса, периодонтита и сложных форм пульпита с использованием микроскопа и минимально инвазивных подходов. Проводит эндодонтическое лечение (перелечивание корневых каналов) с акцентом на сохранение естественных тканей зуба. В своей практике используем систему коффердам</description><picture>https://elturion.ru/wp-content/uploads/2024/07/0011-elturion-.jpg</picture>
+                <param name="Фамилия">Зиновьева</param>
+                <param name="Имя">Наталья</param>
+                <param name="Отчество">Николаевна</param>
+                <param name="Годы опыта">31</param>
+                <param name="Город">г. Владивосток</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Владивосток</param>
+                <param name="Адрес клиники">ул. Давыдова, д. 35</param>
+                <param name="Название клиники">Стоматология Эльтурион</param>
+                <param name="Возможность записи">true</param>
+                <param name="Онлайн-расписание">false</param>
+                <param name="Телефон для записи">8(423)231-11-31</param>
+                </offer>
+            <offer id="vrach28798" group_id="2">
+                <categoryId>1</categoryId><set-ids>set_1,set_2,set_6</set-ids><name>Желдак Александр Валерьевич</name>
+                                    <url>https://elturion.ru/doctors/zheldak-aleksandr-valerevich/</url>
+                                    <price from="true">1500</price>
+                <oldprice>1650</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Специализируется на восстановлении зубов вкладками, винирами, коронками, подбирает протезы, выполняет установку и подгонку зубных конструкций. Занимается изготовлением боксерских шин и индивидуальных кап</description><picture>https://elturion.ru/wp-content/uploads/2024/08/0013-elturion-.jpg</picture>
+                <param name="Фамилия">Желдак</param>
+                <param name="Имя">Александр</param>
+                <param name="Отчество">Валерьевич</param>
+                <param name="Годы опыта">8</param>
+                <param name="Город">г. Владивосток</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Владивосток</param>
+                <param name="Адрес клиники">ул. Давыдова, д. 35</param>
+                <param name="Название клиники">Стоматология Эльтурион</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(423)231-11-31</param>
+                </offer>
+            <offer id="vrach28799" group_id="3">
+                <categoryId>1</categoryId><set-ids>set_1,set_5</set-ids><name>Боярчук Владимир Денисович</name>
+                                    <url>https://elturion.ru/doctors/boyarchuk-vladimir-denisovich/</url>
+                                    <price from="true">1500</price>
+                <oldprice>1650</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Занимается диагностикой и лечением стоматологических заболеваний: устранение кариозных полостей с использованием различных пломбировочных материалов, проведение эндодонтического лечения с использованием современных технологий и оборудования</description><picture>https://elturion.ru/wp-content/uploads/2024/07/0010-elturion-.jpg</picture>
+                <param name="Фамилия">Боярчук</param>
+                <param name="Имя">Владимир</param>
+                <param name="Отчество">Денисович</param>
+                <param name="Город">г. Владивосток</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Владивосток</param>
+                <param name="Адрес клиники">ул. Давыдова, д. 35</param>
+                <param name="Название клиники">Стоматология Эльтурион</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(423)231-11-31</param>
+                </offer>
+            <offer id="vrach28800" group_id="4">
+                <categoryId>1</categoryId><set-ids>set_1,set_4,set_7</set-ids><name>Калашников Антон Алексеевич</name>
+                                    <url>https://elturion.ru/doctors/kalashnikov-anton-alekseevich/</url>
+                                    <price from="true">1500</price>
+                <oldprice>1650</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Специализируется на комплексном хирургическом лечении в области стоматологии. Занимается имплантацией зубных конструкций с минимальной травматизацией тканей. Проводит операции по восстановлению костной ткани  костная пластика. Специализируется на сложных случаях удаления зубов, включая зубов мудрости и с аномальным расположением корней.</description><picture>https://elturion.ru/wp-content/uploads/2024/07/0004-elturion-.jpg</picture>
+                <param name="Фамилия">Калашников</param>
+                <param name="Имя">Антон</param>
+                <param name="Отчество">Алексеевич</param>
+                <param name="Годы опыта">11</param>
+                <param name="Город">г. Владивосток</param>
+                <param name="Город клиники">г. Владивосток</param>
+                <param name="Адрес клиники">ул. Давыдова, д. 35</param>
+                <param name="Название клиники">Стоматология Эльтурион</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(423)231-11-31</param>
+                </offer>
+            </offers>
+    </shop>
+</yml_catalog>

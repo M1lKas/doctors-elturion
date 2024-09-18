@@ -5,7 +5,7 @@
         <company>ООО Стом-ВД</company>
         <url>https://elturion.ru</url>
         <email>elturion@yandex.ru</email>
-        <picture>https://elturion.ru/wp-content/uploads/2024/05/logo.svg</picture>
+        <picture>https://elturion.ru/wp-content/uploads/2024/05/logo-na-sajt.png</picture>
         <description>Стоматологическая клиника</description>
         <currencies>
             <currency id="RUR" rate="1" />
@@ -89,6 +89,7 @@
                 <param name="Фамилия">Боярчук</param>
                 <param name="Имя">Владимир</param>
                 <param name="Отчество">Денисович</param>
+                <param name="Годы опыта">1</param>
                 <param name="Город">г. Владивосток</param>
                 <param name="Взрослый врач">true</param>
                 <param name="Город клиники">г. Владивосток</param>
